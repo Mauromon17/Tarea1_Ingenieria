@@ -11,6 +11,9 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 Java 21 (Verifica con java -version)
 Maven (Verifica con mvn -version)
 
+Para el desarrollo del Proyecto de Spring se consultó el siguiente enlace
+https://spring.io/quickstart
+
 Para poder ejecutar el projecto
 mvn spring-boot:run
 
